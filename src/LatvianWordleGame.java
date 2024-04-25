@@ -25,6 +25,7 @@ public class LatvianWordleGame extends JFrame {
         initializeDatabase();
         setupUI();
 
+        
         setVisible(true);
     }
 
